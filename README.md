@@ -23,7 +23,7 @@ More recently, I’ve gone deep on AI-assisted building — validating apps for 
 
 ## Day job skills
 
-**MarTech & Data:** Segment CDP · Braze · AWS Athena · Amplitude · SQL · GA4  
+**MarTech & Data:** Segment CDP · Braze · AWS Athena · Amplitude · SQL  
 **Product:** 0-to-1 incubation · growth loops · A/B testing · RFM segmentation · OKR framework  
 **Building:** React · TypeScript · Firebase · Supabase · Cloudflare · REST APIs · Gemini AI
 
