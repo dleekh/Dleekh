@@ -16,6 +16,7 @@ More recently, I’ve gone deep on AI-assisted building — validating apps for 
 |[Nature Quest](https://naturequest.vercel.app)|Gamified wildlife discovery app for Singapore                                               |React, Google Maps API, Gemini AI     |
 |ProperAI *(in development)*                   |Agentic property discovery for buyers and agents, with 3D maps and multi-agent orchestration|TBD                                   |
 |Valid Jewel *(in development)*                |Product discovery tool for upstream PM workflows, built to work alongside agents            |TBD                                   |
+|[Mid-Where?](https://mid-where.vercel.app)         |Find a fair midpoint to meet friends for food — optimizes by travel time, surfaces nearby restaurants with collaborative voting|Next.js, TypeScript, Apple MapKit JS, Zustand, Upstash Redis|
 
 **Coming soon:** TallyUp iOS app
 
