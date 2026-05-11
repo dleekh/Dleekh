@@ -12,7 +12,7 @@ More recently, I’ve gone deep on AI-assisted building — validating apps for 
 
 |Project                                       |What it does                                                                                |Stack                                 |
 |----------------------------------------------|--------------------------------------------------------------------------------------------|--------------------------------------|
-|[TallyUp]         |AI-powered bill splitting — photograph a receipt, split it fairly                           |React, TypeScript, Firebase, Gemini AI|
+|TallyUp         |AI-powered bill splitting — photograph a receipt, split it fairly                           |React, TypeScript, Firebase, Gemini AI|
 |[Nature Quest](https://naturequest.vercel.app)|Gamified wildlife discovery app for Singapore                                               |React, Google Maps API, Gemini AI     |
 |ProperAI *(in development)*                   |Agentic property discovery for buyers and agents, with 3D maps and multi-agent orchestration|TBD                                   |
 |Valid Jewel *(in development)*                |Product discovery tool for upstream PM workflows, built to work alongside agents            |TBD                                   |
